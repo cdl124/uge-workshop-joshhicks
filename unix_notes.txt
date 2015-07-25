@@ -1,3 +1,4 @@
+    #Output of history command
     1  echo EDITOR
     2  echo $EDITOR
     3  echo $PATH
