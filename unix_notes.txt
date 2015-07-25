@@ -1,0 +1,21 @@
+    1  echo EDITOR
+    2  echo $EDITOR
+    3  echo $PATH
+    4  git --version
+    5  git config --global user.name 'Josh Hicks'
+    6  git config --global user.email 'josh.hicks@live.com'
+    7  curl -fsSL http://git.io/7UHtNA | sh
+    8  curl -fsSL http://git.io/Fasb | sh
+    9  cd ..
+   10  ls
+   11  cd johicks
+   12  ls
+   13  ls | grep dir
+   14  ls | grep d
+   15  ls | less
+   16  cd Documents/
+   17  ls
+   18  logout
+   19  dig
+   20  dig www.akamai.com
+   21  history > moving_around.txt
